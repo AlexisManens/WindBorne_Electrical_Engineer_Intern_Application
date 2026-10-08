@@ -1,8 +1,8 @@
 # WindBorne_Electrical_Engineer_Intern_Application
-![Assembled Icarus PCB](Iteration 5.jpg)
+![Assembled Icarus PCB](Iteration5.jpg)
 
-![IC repair using motor winding wire](pin expander bodge.jpg)
+![IC repair using motor winding wire](pin_expander_bodge.jpg)
 
-[View the full schematic](full schematic.pdf)
+[View the full schematic](full_schematic.pdf)
 
-[Watch the slide flute demo](goofy flute video.MP4)
+[Watch the slide flute demo](goofy_flute_video.MP4)
